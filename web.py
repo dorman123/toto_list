@@ -2,6 +2,9 @@
 # for activating the venv: .\venv\Scripts\activate.bat
 # for running the code in the terminal: python -m streamlit run c:/visualstodio_projects/udemy-learning-lessons-1-20/project_todo_list/to_to_list_project_website/web.py
 
+# git branch -M main
+# git push -u origin main
+
 import streamlit as st
 import functions
 
